@@ -48,7 +48,7 @@ https://youtu.be/3qSVcQ4Jwv0
 
 ## DEVELOPMENT
 
-The game has been developed with Unity version 2021.3.19f and Visual Studio 2022. The input has been programmed using the New Input Sytem, in order to enable playing both with a controller and with a mouse. Behavior Designer was used to build the IA of the animals.
+The game has been developed with Unity version 2021.3.19f and Visual Studio 2022. The input has been programmed using the New Input Sytem, in order to enable playing both with a controller and with a mouse. Behavior Designer was used to build the behavior trees for the IA of the animals.
 
 ## ASSETS USED
 
