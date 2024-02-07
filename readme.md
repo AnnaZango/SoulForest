@@ -40,7 +40,7 @@ Cntrols keyboard and mouse:
 - Switch weapons: C
 - Drop sweet: R
 
-The game was designed to be played in a 16:9 resolution. To play from the Editor, open the project with said Unity version, go to the scene SplashScreen (Assets/Scenes), and click on play. Alternatively, you can make a local build.
+The game was designed to be played in a 16:9 resolution. To play from the Editor, open the project with said Unity version, go to the scene SplashScreen (Assets/Scenes), and click on play. Alternatively, you can make a local build. To do so, go to File/Build Settings, and select "Windos, Mac, Linux" as Platform. On target platform, select "Windows". Finally, click on the "Build and Run" button to make the local build.
 
 Here you can see a gameplay video:
 
